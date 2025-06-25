@@ -1,0 +1,23 @@
+.box2 {
+    background-color: #90ee90;
+    color:#0000ff
+}
+
+#a {
+    color: #6574ff;
+}
+
+.link {
+    color: #ff0000;
+    text-decoration: none;
+}
+
+.All {
+    color: #fff;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    background-color: #3685f3;
+
+}
