@@ -59,7 +59,7 @@ ul{
 }
 
 .bgimage-try {
-    opacity: 0.6;
+    opacity:0.6;
     background-image: url(images/1099945-3839x2159-desktop-hd-galaxy-cat-wallpaper-photo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -68,6 +68,12 @@ ul{
     width: 100%;
 }
 
+.normal-img2 {
+    width: 300px;
+    height: 200px;
+    border: 5px dashed #190d85;
+    float: left;
+}
 .normal-img {
     width: 300px;
     height: 200px;
@@ -80,3 +86,14 @@ ul{
     border-radius: 30px;
 }
 
+.positioned-img {
+    position: relative;
+    left: 150px;}
+
+.padding-exp {
+    border: #190d85 solid 5px;
+    margin:20px 20px;
+    padding: 20px 30px;
+    font-size: 20px;
+    background-color: #3282c4;
+}
